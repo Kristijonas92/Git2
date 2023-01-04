@@ -1,7 +1,11 @@
+body{
+    margin: 0;
+    background-color: rgb(41, 1, 1);
+}
 section#gitKomandos > ul{
     max-width: 80%;
     margin: 30px auto 0;
-    background-color: rgba(144, 144, 134, 134);
+    background-color: rgba(144, 144, 134, 0.817);
     border-radius: 10px;
     color: white;
     font-size: 1.3rem;
